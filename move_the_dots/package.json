@@ -1,7 +1,7 @@
 {
-  "name": "codegifs",
+  "name": "move the dots",
   "version": "0.1.0",
-  "description": "codegifs",
+  "description": "move the dots",
   "author": "Ian Pringle <pard@0x44.pw>",
   "main": "server.js",
   "scripts": {

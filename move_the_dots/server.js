@@ -17,7 +17,7 @@ app.get('/', function(req, res) {
 
 // Add the WebSocket handlers
 io.on('connection', function(socket) {
-  console.log('a user has connected');
+  console.log(`a user has connected on socket ${socket.id}`);
 });
 
 function hashSocket(sock) {
